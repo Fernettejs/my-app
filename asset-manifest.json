@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.5142808e.chunk.css",
+    "main.js": "/my-app/static/js/main.5243af62.chunk.js",
+    "main.js.map": "/my-app/static/js/main.5243af62.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.f0229b55.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.f0229b55.js.map",
+    "static/js/2.c3b6d242.chunk.js": "/my-app/static/js/2.c3b6d242.chunk.js",
+    "static/js/2.c3b6d242.chunk.js.map": "/my-app/static/js/2.c3b6d242.chunk.js.map",
+    "static/js/3.a8296d4d.chunk.js": "/my-app/static/js/3.a8296d4d.chunk.js",
+    "static/js/3.a8296d4d.chunk.js.map": "/my-app/static/js/3.a8296d4d.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "static/css/main.5142808e.chunk.css.map": "/my-app/static/css/main.5142808e.chunk.css.map",
+    "static/js/2.c3b6d242.chunk.js.LICENSE.txt": "/my-app/static/js/2.c3b6d242.chunk.js.LICENSE.txt",
+    "static/media/OperationOutlast.4b54f8f2.png": "/my-app/static/media/OperationOutlast.4b54f8f2.png",
+    "static/media/FrontPage.css": "/my-app/static/media/TableTop.5653b697.jpg",
+    "static/media/alex_banner.1e0ffb52.jpg": "/my-app/static/media/alex_banner.1e0ffb52.jpg",
+    "static/media/coding in a nutshell.ea05791d.jpg": "/my-app/static/media/coding in a nutshell.ea05791d.jpg",
+    "static/media/github_logo.39e986cf.png": "/my-app/static/media/github_logo.39e986cf.png",
+    "static/media/left-brain-right-brain2.628559b3.jpg": "/my-app/static/media/left-brain-right-brain2.628559b3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0229b55.js",
+    "static/js/2.c3b6d242.chunk.js",
+    "static/css/main.5142808e.chunk.css",
+    "static/js/main.5243af62.chunk.js"
+  ]
+}
