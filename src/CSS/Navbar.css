@@ -1,0 +1,80 @@
+.nav {
+    border-bottom: 1px solid rgba(47, 55, 61, 0.95);
+    /* min-width: 250px; */
+    padding-left: 20px;
+    padding-right: 20px;
+    display: flex;
+    /* background-color: transparent; */
+    /* position: fixed; */
+    max-width: 1300px;
+    text-align: center;
+    background-color: rgb(25, 39, 53, 0.5);
+    z-index: 100;
+    margin:0px auto;
+    left:0px;
+    right:0px;
+}
+
+.sidebarOption {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    padding: 20px;
+
+}
+
+.sidebar__twitterIcon{
+    /* color: var(--twitter-color); */
+    font-size: 30px !important;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+/* .sidebarOption > .MuiSvgIcon-root {
+    padding: 20px;
+} */
+
+
+
+.sidebarOption > h2 {
+    font-weight: 800;
+    font-size: 20px;
+    margin-right: 20px;
+}
+
+.sidebarOption:hover {
+text-decoration: none;
+cursor: pointer;
+color: var(--twitter-color);
+background-color: rgb(29, 161, 242, .2);
+transition: color 100ms ease-out;
+border-radius: 30px;
+}
+
+.sidebarOption--active {
+    color: var(--twitter-color);
+}
+
+#email {
+    background-color: var(--twitter-color);
+    color: white;
+    font-weight: 900;
+    width: 80%;
+    height: 50px;
+    border-style: none;
+    border-radius: 30px;
+    text-transform: inherit;
+    margin-top: 50px;
+    text-align: right;
+    margin-left: 20px;
+    right: 0px;
+  }
+
+#twitterBird {
+    margin-top: 10px;
+    margin-left: 20px;
+    }
+
+.navButton {
+    color: white !important;
+}

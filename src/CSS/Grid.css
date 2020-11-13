@@ -1,0 +1,61 @@
+.about {
+  flex: 0.7;
+  text-align: center;
+  padding: 40px;
+}
+  
+.aboutContainer{
+  border-radius: 15px;
+  border: 2px solid blue;
+  display: inline-block;
+  position: relative;
+  height:200px;
+  width: 200px;
+  overflow: hidden;
+  margin: 20px;
+}
+
+#projectPhoto{
+  height: auto;    
+  overflow: hidden;
+  max-width:100%;
+  height:100%;
+  opacity: 1;
+  display: block;
+  transition: .5s ease;
+  backface-visibility: hidden;
+  background-color: white;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+#projectPhoto:hover .image {
+  opacity: .3;
+}
+
+.aboutContainer:hover .middle {
+  opacity: 1;
+}
+.projectText{ 
+  font-family: futura;
+  font-size: large;
+  max-width:100%;
+  background-color: rgb(29, 161, 242);
+  color: white;
+  padding: 32px 64px;
+  max-height: 50px;
+  overflow: scroll;
+}
+
+
+
+

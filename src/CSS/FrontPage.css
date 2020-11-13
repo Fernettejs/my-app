@@ -1,0 +1,33 @@
+.frontPage {
+    /* border: 3px solid red; */
+    /* position: relative; */
+    text-align: center;
+    background-image: url('../Images/TableTop.jpg');
+    background: linear-gradient(rgb(25, 39, 53, .65), rgb(25, 39, 53, 0.65)), url('../Images/TableTop.jpg');
+    background-size: cover;
+    background-position: bottom center;
+    width: 100%;
+    height: 700px;
+    /* display: flex; */
+}
+
+.text {
+    /* position: absolute; */
+    /* transform: translate(-50%, -50%); */
+    position: relative;
+    top: 50px;
+    margin: 0 auto;
+    width: 400px;
+    background-color: rgb(42, 119, 167, .8);
+    text-shadow: -4px 3px rgba(61, 94, 121, 0.3);
+    border-radius: 20px;
+    padding: 30px;
+}
+
+.text h1 {
+    padding-bottom: 20px;
+}
+
+.text h6 {
+    padding-top: 20px;
+}

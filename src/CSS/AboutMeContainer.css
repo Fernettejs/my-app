@@ -1,0 +1,21 @@
+.aboutMeContainer {
+    display: flex;
+max-width: 1300px;}
+
+
+/* .me {
+    display: flex;
+  }
+
+.nav{
+    flex: 0.2;
+}
+.about {
+    flex:0.5;
+    float: right;
+}
+
+.widgets {
+    flex: 0.3;
+    float: right;
+} */
