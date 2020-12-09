@@ -1,3 +1,10 @@
+# TwitterClone
+Twitter clone with Clever Programmer
+
+My creation of a Twitter clone. This helped me use React more along with Material-UI, props, and more css tricks. 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
